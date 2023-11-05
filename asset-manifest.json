@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/charankaramala/react-project.git/static/css/main.61039cd1.css",
+    "main.js": "/charankaramala/react-project.git/static/js/main.083be045.js",
+    "static/media/54377.jpg": "/charankaramala/react-project.git/static/media/54377.de94f484c6017fc21431.jpg",
+    "static/media/backgroundveg.avif": "/charankaramala/react-project.git/static/media/backgroundveg.4c83aa1035c81e8e03e1.avif",
+    "index.html": "/charankaramala/react-project.git/index.html",
+    "main.61039cd1.css.map": "/charankaramala/react-project.git/static/css/main.61039cd1.css.map",
+    "main.083be045.js.map": "/charankaramala/react-project.git/static/js/main.083be045.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61039cd1.css",
+    "static/js/main.083be045.js"
+  ]
+}
