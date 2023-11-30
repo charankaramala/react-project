@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/react-project/static/css/main.4f41d4db.css",
-    "main.js": "/react-project/static/js/main.607682fb.js",
+    "main.css": "/react-project/static/css/main.5ac31e48.css",
+    "main.js": "/react-project/static/js/main.2d742d02.js",
     "static/media/54377.jpg": "/react-project/static/media/54377.de94f484c6017fc21431.jpg",
+    "static/media/bookingbackground.avif": "/react-project/static/media/bookingbackground.9d3a8c54a075a84308cf.avif",
+    "static/media/responsivehotel.jpg": "/react-project/static/media/responsivehotel.b0c9bdad45337625bc81.jpg",
     "static/media/backgroundveg.avif": "/react-project/static/media/backgroundveg.4c83aa1035c81e8e03e1.avif",
     "index.html": "/react-project/index.html",
-    "main.4f41d4db.css.map": "/react-project/static/css/main.4f41d4db.css.map",
-    "main.607682fb.js.map": "/react-project/static/js/main.607682fb.js.map"
+    "main.5ac31e48.css.map": "/react-project/static/css/main.5ac31e48.css.map",
+    "main.2d742d02.js.map": "/react-project/static/js/main.2d742d02.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f41d4db.css",
-    "static/js/main.607682fb.js"
+    "static/css/main.5ac31e48.css",
+    "static/js/main.2d742d02.js"
   ]
 }
